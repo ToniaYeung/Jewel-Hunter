@@ -13,4 +13,4 @@ When the character walks into a moving enemy, on collision a life is lost.
 When character walks into canyon, they begin to fall and a life is lost.
 
 Game over after 3 lives are lost.
-# Jewel-Hunter
+
